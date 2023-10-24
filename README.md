@@ -1,1 +1,4 @@
 # barvi-ky
+#EAB2A0
+#A76F6F
+#435B66
